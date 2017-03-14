@@ -1,0 +1,23 @@
+p {
+     background-color:purple;
+     color:black;
+    font-Papyrus:Regular;
+}
+div   {
+     dorder: 4px solid red
+}
+#header {
+      margin: -15px
+}
+.left {
+    float: left;
+    margin-left: -15px;
+}
+.right {
+    float: right;
+    margin-right: -15px;
+}
+#footer {
+      clear: boft;
+
+}
